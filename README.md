@@ -1,2 +1,1 @@
-# wdafwakfowafko
-Hacker.js
+worker:node aa.js
